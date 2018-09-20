@@ -11,7 +11,7 @@
         <param name="android-package" value="com.davidefavia.InAppYouTube" />
         <param name="onload" value="true" />
     </feature>
-    <name>My App</name>
+    <name>f7 youtube</name>
     <description>        A basic Vue.js + Framework7 template for PhoneGap.    </description>
     <author email="tommy@devgeeks.org" href="http://phonegap.com">        Adobe PhoneGap Team    </author>
     <content src="index.html" />
